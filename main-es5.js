@@ -1090,7 +1090,7 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
         _classCallCheck(this, ConnectionService);
 
         this.http = http;
-        this.url = 'http://34.229.161.196:3000/';
+        this.url = 'http://34.229.161.196:3001/';
       }
 
       _createClass(ConnectionService, [{

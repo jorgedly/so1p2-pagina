@@ -565,7 +565,7 @@ __webpack_require__.r(__webpack_exports__);
 class ConnectionService {
     constructor(http) {
         this.http = http;
-        this.url = 'http://34.229.161.196:3000/';
+        this.url = 'http://34.229.161.196:3001/';
     }
     getData() {
         return Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__awaiter"])(this, void 0, void 0, function* () {
